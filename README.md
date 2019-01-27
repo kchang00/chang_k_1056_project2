@@ -3,3 +3,9 @@
 01/27/19 - 4:48pm -> firstCommit
 
 Folder structure created. CSS Reset, main CSS, and main JS added. First commit.
+
+4:55pm -> des.kc.assets
+
+Raw renamed assets uploaded. Remember to:
+- Edit assets
+- Compress them
