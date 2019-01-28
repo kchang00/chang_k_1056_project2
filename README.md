@@ -25,3 +25,5 @@ Raw renamed assets uploaded. Remember to:
 - Added typography 
 - Fixed spacing
 - changed font colour
+- closed container div
+- 
