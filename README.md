@@ -14,3 +14,8 @@ Raw renamed assets uploaded. Remember to:
 
 - Added compressed and edited images 
 - Added wireframe
+
+1:16pm -> des.kc.html
+
+- HTML and CSS completed (flexbox yay)
+- Modified wireframe text box
