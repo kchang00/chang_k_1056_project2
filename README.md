@@ -9,3 +9,8 @@ Folder structure created. CSS Reset, main CSS, and main JS added. First commit.
 Raw renamed assets uploaded. Remember to:
 - Edit assets
 - Compress them
+
+9:48pm -> des.kc.images
+
+- Added compressed and edited images 
+- Added wireframe
