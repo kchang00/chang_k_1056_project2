@@ -13,3 +13,4 @@ Raw renamed assets uploaded. Remember to:
 9:48pm -> des.kc.images
 
 - Added compressed and edited images 
+- Added wireframe
