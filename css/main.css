@@ -4,3 +4,171 @@
 .hidden {
 	display: none;
 }
+
+body {
+	background-color: skyblue;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	width: 960px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+/* HEADER */
+
+#heroImg {
+  background-image: url("../images/river_pano_v2.jpg");
+  width: 960px;
+  height: 458px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#heroText {
+  
+/*  background-color: white;*/
+  text-align: center;
+  position: absolute;
+/*  top: 0%;
+  left: 0%;*/
+  transform: translate(0%, 100%);
+  color: #8D9EB0;
+  padding: 5% 10%;
+  font-size: 60px;
+  color: #fff;
+}
+
+#heroDesc {
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 40px 0px;
+}
+
+#tagline {
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+
+/* ABOUT */
+
+#about {
+	display: flex;
+	margin: 40px;
+}
+
+#aboutDesc {
+	display: flex;
+	flex-direction: column;
+	margin-left: 40px;
+
+}
+
+/* MISSION */
+
+#mission {
+	display: flex;
+	flex-direction: column;
+	margin: 40px;
+}
+
+#statementCon {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.statementColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 254px;
+}
+
+.statementColumn img{
+	margin: 40px 0px;
+}
+
+.statementColumn ul {
+	padding: 10px;
+
+}
+
+/* ACTIVITIES */
+
+#activities {
+	display: flex;
+	flex-direction: column;
+	margin-top: 40px;
+}
+
+#activitiesImg {
+  background-image: url("../images/creek_v2.jpg");
+  width: 880px;
+  height: 323px;
+  margin: 0 auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#activitiesText {
+  
+  background-color: white;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #8D9EB0;
+  padding: 2% 5%;
+}
+
+#activities p {
+	margin: 40px 80px;
+	text-align: center;
+}
+
+/* TROUT */
+
+#trout {
+	display: flex;
+	flex-direction: column;
+	margin: 40px;
+}
+
+#troutCon {
+	display: flex;
+	margin-top: 40px;
+}
+
+#troutImg {
+	display: flex;
+	flex-direction: column;
+	padding-right: 40px;
+}
+
+#troutImg img:first-child {
+	margin-bottom: 40px;
+}
+
+
+#troutDesc {
+	display: flex;
+	flex-direction: column;
+	padding-right: 40px;
+}
+
