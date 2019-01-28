@@ -9,7 +9,7 @@ body {
 	background-color: #dbffea;
 }
 
-/* FONTS */
+/* GENERAL FONT RULES */
 
 h1 {
 	font-family: 'Abril Fatface', cursive;
@@ -37,23 +37,6 @@ li {
 	font-size: 14px;
 	line-height: 20px;
 	margin-bottom: 20px;
-}
-
-#heroDesc:first-letter {
-	font-family: 'Roboto', sans-serif;
-	font-size: 30px;
-	font-weight: bold;
-	margin: 5px;
-}
-
-#tagline {
-	font-size: 16px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#about h2 {
-	margin: 20px 0px;
 }
 
 #container {
@@ -95,11 +78,21 @@ li {
 	padding: 40px 0px;
 }
 
+#heroDesc:first-letter {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 5px;
+}
+
 #tagline {
 	width: 600px;
 	text-align: center;
 	margin: 0 auto;
 	margin-bottom: 40px;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
 }
 
 /* ABOUT */
@@ -107,6 +100,10 @@ li {
 #about {
 	display: flex;
 	margin: 40px;
+}
+
+#about h2 {
+	margin: 20px 0px;
 }
 
 #aboutDesc {
@@ -172,8 +169,9 @@ li {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #8D9EB0;
+  color: #36945D;
   padding: 2% 5%;
+  font-style: italic;
 }
 
 #activities p {
