@@ -1,5 +1,13 @@
 # chang_k_1056_project2
 
+Single paged, fixed width site created to test how to use typography on the web. 
+
+===================
+
+~ Activity Log ~
+
+===================
+
 01/27/19 - 4:48pm -> firstCommit
 
 Folder structure created. CSS Reset, main CSS, and main JS added. First commit.
